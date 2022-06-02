@@ -1,8 +1,12 @@
 {
-  "name": "iweather-icons",
-  "version": "0.0.1",
+  "name": "iweather_icons",
+  "version": "0.0.2",
   "author": "ARCTURUS",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iceweather/iweather_icons.git"
+  },
   "keywords": [
     "qweather",
     "weather icons",
@@ -34,6 +38,9 @@
       "require": "./dist/lib.umd.ts"
     }
   },
+  "files": [
+    "dist"
+  ],
   "main": "./dist/lib.umd.ts",
   "module": "./dist/lib.es.ts"
 }

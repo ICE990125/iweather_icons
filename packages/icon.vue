@@ -9,6 +9,12 @@
   </svg>
 </template>
 
+<script lang="ts">
+export default {
+  name: 'i-icon',
+};
+</script>
+
 <script setup lang="ts">
 import { computed } from 'vue';
 import 'virtual:svg-icons-register';

@@ -9,10 +9,16 @@
 # installation
 
 ```
-npm install iweather-icons@0.0.1
+npm install iweather_icon@0.0.2
 ```
 
 # Usage
+
+```js
+import IIcon from 'iweather_icons';
+
+createApp(App).use(IIcon).mount('#app');
+```
 
 ```html
 <!-- qweather -->

@@ -2,7 +2,13 @@
 
 小冰天气图标
 
+[![XNKJ0K.png](https://s1.ax1x.com/2022/06/02/XNKJ0K.png)](https://imgtu.com/i/XNKJ0K)
+
 # installation
+
+```
+git clone https://github.com/iceweather/iweather_icons.git
+```
 
 ```
 npm install iweather-icons@0.0.1

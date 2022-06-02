@@ -4,6 +4,8 @@
 
 [![XNKJ0K.png](https://s1.ax1x.com/2022/06/02/XNKJ0K.png)](https://imgtu.com/i/XNKJ0K)
 
+目前仅支持和风天气
+
 # installation
 
 ```

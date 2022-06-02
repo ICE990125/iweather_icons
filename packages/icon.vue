@@ -11,6 +11,7 @@
 
 <script setup lang="ts">
 import { computed } from 'vue';
+import 'virtual:svg-icons-register';
 
 const props = defineProps({
   prefix: {

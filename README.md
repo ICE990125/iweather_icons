@@ -4,12 +4,12 @@
 
 [![XNKJ0K.png](https://s1.ax1x.com/2022/06/02/XNKJ0K.png)](https://imgtu.com/i/XNKJ0K)
 
-目前仅支持和风天气
+目前仅支持和风天气, vuejs 组件
 
 # installation
 
 ```
-npm install iweather_icon@0.0.2
+npm install iweather_icons@0.0.2
 ```
 
 # Usage

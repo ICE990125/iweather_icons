@@ -1,5 +1,5 @@
 {
-  "name": "iweather-icon",
+  "name": "iweather-icons",
   "version": "0.0.1",
   "author": "ARCTURUS",
   "license": "MIT",
@@ -33,5 +33,7 @@
       "import": "./dist/lib.es.ts",
       "require": "./dist/lib.umd.ts"
     }
-  }
+  },
+  "main": "./dist/lib.umd.ts",
+  "module": "./dist/lib.es.ts"
 }

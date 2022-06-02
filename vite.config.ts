@@ -20,6 +20,7 @@ export default defineConfig({
       name: 'lib',
       fileName: (format) => `lib.${format}.ts`,
     },
+    outDir: 'dist',
     rollupOptions: {
       external: ['vue'],
       output: {

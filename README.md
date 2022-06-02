@@ -2,7 +2,7 @@
 
 小冰天气图标
 
-# install
+# installation
 
 ```
 npm install iweather-icons@0.0.1
@@ -14,7 +14,13 @@ npm install iweather-icons@0.0.1
 npm run build
 ```
 
-# use
+# Dev
+
+```
+npm run dev
+```
+
+# Usage
 
 ```html
 <!-- qweather -->

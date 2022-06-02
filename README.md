@@ -7,23 +7,7 @@
 # installation
 
 ```
-git clone https://github.com/iceweather/iweather_icons.git
-```
-
-```
 npm install iweather-icons@0.0.1
-```
-
-# Build
-
-```
-npm run build
-```
-
-# Dev
-
-```
-npm run dev
 ```
 
 # Usage
@@ -34,4 +18,28 @@ npm run dev
 
 <!-- 预警 -->
 <i-icon name="warings-1001"></i-icon>
+
+<!-- 设置大小 -->
+<i-icon name="100" :size="20"></i-icon>
+```
+
+
+If you want to run it locally and look the demo:
+
+```
+git clone https://github.com/iceweather/iweather_icons.git
+```
+
+and
+
+# Dev
+
+```
+npm run dev
+```
+
+# Build
+
+```
+npm run build
 ```

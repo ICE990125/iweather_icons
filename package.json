@@ -1,6 +1,16 @@
 {
   "name": "iweather-icon",
   "version": "0.0.1",
+  "author": "ARCTURUS",
+  "license": "MIT",
+  "keywords": [
+    "qweather",
+    "weather icons",
+    "icons",
+    "openweather",
+    "vue icons",
+    "svg icons"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
@@ -20,8 +30,8 @@
   },
   "exports": {
     ".": {
-      "import": "./dist/my-lib.es.ts",
-      "require": "./dist/my-lib.umd.ts"
+      "import": "./dist/lib.es.ts",
+      "require": "./dist/lib.umd.ts"
     }
   }
 }

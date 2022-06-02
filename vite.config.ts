@@ -8,15 +8,15 @@ export default defineConfig({
   plugins: [
     vue(),
     createSvgIconsPlugin({
-      iconDirs: [path.resolve(process.cwd(), 'src/assets')],
+      iconDirs: [path.resolve(process.cwd(), 'packages/asset')],
       symbolId: 'icon-[dir]-[name]',
-      customDomId: '__svg__icons__dom__',
+      customDomId: '__svg__icons__',
     }),
   ],
   // https://cn.vitejs.dev/guide/build.html#library-mode
   build: {
     lib: {
-      entry: path.resolve(__dirname, 'src/main.ts'),
+      entry: path.resolve(__dirname, 'packages/index.ts'),
       name: 'lib',
       fileName: (format) => `lib.${format}.ts`,
     },

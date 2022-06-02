@@ -1,7 +1,25 @@
-<div align="center">
-    <h1>自制和风天气小图标</h1>
-</div>
+# iweather-icons
 
-[![HE8PDe.jpg](https://s4.ax1x.com/2022/02/02/HE8PDe.jpg)](https://imgtu.com/i/HE8PDe)
+小冰天气图标
 
-随便设计的, Ai学的也不是很好😭
+# install
+
+```
+npm install iweather-icons@0.0.1
+```
+
+# Build
+
+```
+npm run build
+```
+
+# use
+
+```html
+<!-- qweather -->
+<i-icon name="100"></i-icon>
+
+<!-- 预警 -->
+<i-icon name="warings-1001"></i-icon>
+```

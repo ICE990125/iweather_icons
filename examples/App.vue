@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import IIcon from './components/icon.vue';
+import IIcon from '../packages/icon.vue';
 </script>
 
 <template>

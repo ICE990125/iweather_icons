@@ -4,49 +4,43 @@
 	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#CCCCCC;}
-	.st1{fill:#999999;}
-	.st2{fill:#E6E6E6;}
-	.st3{fill:#808080;}
+	.st1{fill:#EEEEEE;}
+	.st2{fill:#999999;}
+	.st3{fill:#E6E6E6;}
 	.st4{fill:#B3B3B3;}
 	.st5{fill:#666666;}
 </style>
 <g>
-	<circle class="st0" cx="304.2" cy="137" r="26.7"/>
+	<circle class="st0" cx="323.9" cy="168.7" r="37.3"/>
 </g>
 <g>
-	<circle class="st1" cx="262.9" cy="198.9" r="17.9"/>
+	<circle class="st1" cx="266.2" cy="255.3" r="25"/>
 </g>
 <g>
-	<circle class="st1" cx="304.3" cy="292" r="12.1"/>
+	<circle class="st2" cx="324.1" cy="385.5" r="16.9"/>
 </g>
 <g>
-	<circle class="st0" cx="199.3" cy="117.8" r="45.9"/>
+	<circle class="st0" cx="177.2" cy="141.9" r="64.2"/>
 </g>
 <g>
-	<circle class="st2" cx="170.9" cy="219.6" r="34.1"/>
+	<circle class="st3" cx="137.5" cy="284.3" r="47.7"/>
 </g>
 <g>
-	<circle class="st2" cx="325.2" cy="225.3" r="26.7"/>
+	<circle class="st3" cx="353.3" cy="292.2" r="37.3"/>
 </g>
 <g>
-	<circle class="st3" cx="365.6" cy="290.3" r="14.1"/>
+	<circle class="st1" cx="409.8" cy="383.1" r="19.7"/>
 </g>
 <g>
-	<circle class="st4" cx="239.3" cy="276.6" r="17.9"/>
+	<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -163.4778 535.8137)" class="st4" cx="233.1" cy="364" rx="25" ry="25"/>
 </g>
 <g>
-	<circle class="st0" cx="273.1" cy="237.8" r="10.4"/>
+	<circle class="st0" cx="280.4" cy="309.7" r="14.5"/>
 </g>
 <g>
-	<circle class="st4" cx="137.1" cy="304.2" r="14.1"/>
+	<circle class="st4" cx="90.2" cy="402.6" r="19.7"/>
 </g>
 <g>
-	<circle class="st5" cx="184.4" cy="276.5" r="8.4"/>
+	<circle class="st5" cx="156.4" cy="363.8" r="11.7"/>
 </g>
-<path class="st2" d="M378.8,349.3h-257c-5.2,0-9.5-4.3-9.5-9.5l0,0c0-5.2,4.3-9.5,9.5-9.5h257c5.2,0,9.5,4.3,9.5,9.5l0,0
-	C388.3,345,384.1,349.3,378.8,349.3z"/>
-<path class="st2" d="M378.8,388.3h-257c-5.2,0-9.5-4.3-9.5-9.5l0,0c0-5.2,4.3-9.5,9.5-9.5h257c5.2,0,9.5,4.3,9.5,9.5l0,0
-	C388.3,384,384.1,388.3,378.8,388.3z"/>
-<path class="st2" d="M378.8,428.3h-257c-5.2,0-9.5-4.3-9.5-9.5l0,0c0-5.2,4.3-9.5,9.5-9.5h257c5.2,0,9.5,4.3,9.5,9.5l0,0
-	C388.3,424,384.1,428.3,378.8,428.3z"/>
 </svg>

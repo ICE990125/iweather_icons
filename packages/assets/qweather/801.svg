@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#F2F2F2;}
 	.st1{fill:#FFB55A;}
 </style>
-<g>
-	<circle class="st0" cx="249.9" cy="250.1" r="183.5"/>
-</g>
-<g>
-	<path class="st1" d="M367.2,249.8c0-89.7-64.3-164.3-149.3-180.3c10.4-1.8,21.1-2.8,32-2.8c101.3,0,183.5,82.1,183.5,183.5
-		s-82.1,183.5-183.5,183.5c-11.7,0-23.1-1.1-34.1-3.2C301.8,415.3,367.2,340.2,367.2,249.8z"/>
-</g>
+<ellipse class="st0" cx="249.9" cy="250.1" rx="171" ry="171"/>
+<path class="st1" d="M359.2,249.8c0-83.6-59.9-153.1-139.1-168c9.7-1.7,19.7-2.6,29.8-2.6c94.4,0,171,76.5,171,171
+	s-76.5,171-171,171c-10.9,0-21.5-1-31.8-3C298.3,404,359.2,334,359.2,249.8z"/>
 </svg>

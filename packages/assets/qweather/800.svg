@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#F2F2F2;}
 	.st1{fill:#FFB55A;}
 </style>
-<g>
-	<circle class="st0" cx="250.3" cy="250.8" r="183.5"/>
-</g>
-<g>
-	<path class="st1" d="M250.3,67.3c-4.1,0-8.2,0.1-12.3,0.4c95.6,6.3,171.2,85.9,171.2,183.1s-75.6,176.8-171.2,183.1
-		c4.1,0.3,8.1,0.4,12.3,0.4c101.3,0,183.5-82.1,183.5-183.5S351.7,67.3,250.3,67.3z"/>
-</g>
+<circle class="st0" cx="250.3" cy="250.8" r="183.5"/>
+<path class="st1" d="M250.3,67.3c-4.1,0-8.2,0.1-12.3,0.4c95.6,6.3,171.2,85.9,171.2,183.1S333.6,427.6,238,433.9
+	c4.1,0.3,8.1,0.4,12.3,0.4c101.3,0,183.5-82.1,183.5-183.5S351.7,67.3,250.3,67.3z"/>
 </svg>

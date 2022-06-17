@@ -21,4 +21,4 @@ pnpm run dev
 
 ## [demo](https://iceweather.github.io/iweather_icons/)
 
-o(TヘTo) 各位给个 star 吧, 么么哒
+(～￣▽￣)～

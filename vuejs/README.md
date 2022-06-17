@@ -6,8 +6,8 @@
 
 ## installation
 
-```
-npm install iweather_icons
+```bash
+pnpm install iweather_icons
 ```
 
 ## Usage
@@ -35,13 +35,21 @@ createApp(App).use(icon).mount('#app');
 
 If you want to run it locally and look the demo:
 
-```
+```bash
 git clone https://github.com/iceweather/iweather_icons.git
 ```
 
 and
 
+```bash
+cd iweather_icons
 ```
+
+```bash
+cd vuejs
+```
+
+```bash
 pnpm run dev
 ```
 
@@ -49,6 +57,6 @@ pnpm run dev
 
 if you don't satisfy the icon, you can design by yourself and replace the icon file under the folder `assets` , finally, you can use the below command to build.
 
-```
+```bash
 pnpm run build
 ```

@@ -5,5 +5,4 @@ export default {
   install: (app: App) => {
     app.component('i-icon', icon);
   },
-  icon,
 };

@@ -1,7 +1,3 @@
-<script setup lang="ts">
-import IIcon from '../packages/icon.vue';
-</script>
-
 <template>
   <h2>天气图标</h2>
   <div class="icons">

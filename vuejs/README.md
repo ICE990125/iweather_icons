@@ -7,7 +7,7 @@
 ## installation
 
 ```
-npm install iweather_icons@0.0.3
+npm install iweather_icons
 ```
 
 ## Usage

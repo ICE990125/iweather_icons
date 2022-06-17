@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <h2>天气图标</h2>
   <div class="icons">
     <i-icon name="100"></i-icon>
@@ -175,7 +175,9 @@
     <i-icon name="warings-2052"></i-icon>
     <i-icon name="warings-9999"></i-icon>
   </div>
-</template>
+</template> -->
+
+<template><div>haha</div></template>
 
 <style scoped>
 .icons {

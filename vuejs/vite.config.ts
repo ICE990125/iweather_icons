@@ -18,7 +18,7 @@ export default defineConfig({
     lib: {
       entry: path.resolve(__dirname, 'packages/index.ts'),
       name: 'lib',
-      fileName: (format) => `lib.${format}.ts`,
+      fileName: (format) => `lib.${format}.js`,
     },
     outDir: 'dist',
     rollupOptions: {

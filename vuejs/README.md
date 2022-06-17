@@ -1,20 +1,21 @@
+# iweather_icons_vue
+
+[![XwEzWj.png](https://s1.ax1x.com/2022/06/05/XwEzWj.png)](https://imgtu.com/i/XwEzWj)
+
 目前仅支持和风天气
 
-# installation
+## installation
 
 ```
 npm install iweather_icons@0.0.3
 ```
 
-# Usage
+## Usage
 
 ```js
 // main.ts
-const icon = require('iweather_icons');
-
-// OR
-// // @ts-ignore
-// import icon from 'iweather_icons';
+// @ts-ignore
+import icon from 'iweather_icons';
 
 createApp(App).use(icon).mount('#app');
 ```
@@ -39,13 +40,13 @@ git clone https://github.com/iceweather/iweather_icons.git
 
 and
 
-# Dev
+## Dev
 
 ```
 npm run dev
 ```
 
-# Build
+## Build
 
 if you don't satisfy the icon, you can design by yourself and replace the icon file under the folder `assets`, finally, you can use the below command to build.
 

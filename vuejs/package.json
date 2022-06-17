@@ -34,13 +34,13 @@
   },
   "exports": {
     ".": {
-      "import": "./dist/lib.es.ts",
-      "require": "./dist/lib.umd.ts"
+      "import": "./dist/lib.es.js",
+      "require": "./dist/lib.umd.js"
     }
   },
   "files": [
     "dist"
   ],
-  "main": "./dist/lib.umd.ts",
-  "module": "./dist/lib.es.ts"
+  "main": "./dist/lib.umd.js",
+  "module": "./dist/lib.es.js"
 }

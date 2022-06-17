@@ -31,6 +31,7 @@ createApp(App).use(icon).mount('#app');
 <i-icon name="100" :size="20"></i-icon>
 ```
 
+## Dev
 
 If you want to run it locally and look the demo:
 
@@ -40,16 +41,14 @@ git clone https://github.com/iceweather/iweather_icons.git
 
 and
 
-## Dev
-
 ```
-npm run dev
+pnpm run dev
 ```
 
 ## Build
 
-if you don't satisfy the icon, you can design by yourself and replace the icon file under the folder `assets`, finally, you can use the below command to build.
+if you don't satisfy the icon, you can design by yourself and replace the icon file under the folder `assets` , finally, you can use the below command to build.
 
 ```
-npm run build
+pnpm run build
 ```

@@ -9,7 +9,7 @@
 - [ ] weapp
 - [ ] other
 
-## Run
+## Dev
 
 ```bash
 pnpm install

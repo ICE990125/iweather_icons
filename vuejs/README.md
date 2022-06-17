@@ -47,7 +47,7 @@ npm run dev
 
 # Build
 
-if you don't satisfy the icon, you can design by yourself and replace the icon file under the folder `packages/assets`, finally, you can use the below command to build it by youself
+if you don't satisfy the icon, you can design by yourself and replace the icon file under the folder `assets`, finally, you can use the below command to build.
 
 ```
 npm run build

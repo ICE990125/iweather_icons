@@ -12,5 +12,9 @@
 ## Run
 
 ```bash
+pnpm install
+```
+
+```bash
 npm run dev
 ```

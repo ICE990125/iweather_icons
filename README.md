@@ -16,5 +16,5 @@ pnpm install
 ```
 
 ```bash
-npm run dev
+pnpm run dev
 ```

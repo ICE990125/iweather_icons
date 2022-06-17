@@ -19,6 +19,6 @@ pnpm install
 pnpm run dev
 ```
 
-## [demo]()
+## [demo](https://iceweather.github.io/iweather_icons/)
 
 o(TヘTo) 各位给个 star 吧, 么么哒

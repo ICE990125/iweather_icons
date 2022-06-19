@@ -1,5 +1,6 @@
 <template>
   <svg
+    aria-hidden="true"
     :style="{
       width: `${size}px`,
       height: `${size}px`,

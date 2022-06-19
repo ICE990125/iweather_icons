@@ -16,8 +16,6 @@
   "include": [
     "demo/**/*.ts",
     "demo/**/*.vue",
-    "vuejs/**/*.ts",
-    "vuejs/**/*.d.ts", 
     "env.d.ts",
   ],
   "references": [{ "path": "./tsconfig.node.json" }]

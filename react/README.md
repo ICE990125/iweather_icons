@@ -14,8 +14,6 @@ pnpm install iweather_icons_react
 
 ```tsx
 // App.tsx
-
-// @ts-ignore
 import { Icon } from 'iweather_icons_react';
 
 export default function App() {

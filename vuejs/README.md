@@ -14,7 +14,6 @@ pnpm install iweather_icons
 
 ```js
 // main.ts
-// @ts-ignore
 import icon from 'iweather_icons';
 
 createApp(App).use(icon).mount('#app');

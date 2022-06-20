@@ -1,6 +1,6 @@
 {
   "name": "iweather_icons",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "ARCTURUS",
   "license": "MIT",
   "repository": {
@@ -39,7 +39,8 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "index.d.ts"
   ],
   "main": "./dist/lib.umd.js",
   "module": "./dist/lib.es.js"

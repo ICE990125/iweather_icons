@@ -1,6 +1,7 @@
 {
   "name": "iweather_icon_weapp",
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "description": "小程序天气图标",
   "scripts": {
     "build": "mpflow-service build",
     "dev": "mpflow-service dev",
@@ -12,7 +13,7 @@
     "@mpflow/plugin-css": "^0.0.33",
     "@mpflow/service": "^0.0.33"
   },
-  "miniprogram": "miniprogram_dist",
+  "miniprogram": "dist",
   "repository": {
     "type": "git",
     "url": "https://github.com/iceweather/iweather_icons.git"

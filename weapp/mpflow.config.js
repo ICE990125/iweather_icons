@@ -6,7 +6,6 @@ module.exports = {
     mode === 'production'
       ? ['src/components/index']
       : undefined,
-  outputDir: 'dist',
   compileType: 'miniprogram',
   sourceMap: false,
   minimize: false,

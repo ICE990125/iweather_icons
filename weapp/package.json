@@ -1,26 +1,26 @@
 {
-  "name": "iweather_weapp",
+  "name": "iweather_icon_weapp",
   "version": "0.0.1",
-  "description": "小程序天气图标",
-  "main": "index.ts",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "mpflow-service build",
+    "dev": "mpflow-service dev",
+    "dev:open": "mpflow-service dev --open"
   },
+  "dependencies": {
+    "@mpflow/plugin-babel": "^0.0.37",
+    "@mpflow/plugin-css": "^0.0.33",
+    "@mpflow/service": "^0.0.33"
+  },
+  "devDependencies": {
+    "@babel/runtime": "^7.11.2"
+  },
+  "miniprogram": "miniprogram_dist",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iceweather/iweather_icons.git"
+    "url": "https://github.com/iceweather/iweather_icons.git"
   },
-  "keywords": [
-    "weapp",
-    "qweather"
+  "files": [
+    "miniprogram_dist"
   ],
-  "author": "ARCTURUS",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/iceweather/iweather_icons/issues"
-  },
-  "homepage": "https://github.com/iceweather/iweather_icons#readme"
+  "homepage": "https://github.com/iceweather/iweather_icons/tree/main/weapp"
 }

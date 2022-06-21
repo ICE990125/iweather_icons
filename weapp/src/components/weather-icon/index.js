@@ -1,0 +1,15 @@
+Component({
+  properties: {
+    // qweather-1 | qweather-100 | qweather-101 | qweather-102 | qweather-103 | qweather-104 | qweather-150 | qweather-151 | qweather-152 | qweather-153 | qweather-2 | qweather-3 | qweather-300 | qweather-301 | qweather-302 | qweather-303 | qweather-304 | qweather-305 | qweather-306 | qweather-307 | qweather-308 | qweather-309 | qweather-310 | qweather-311 | qweather-312 | qweather-313 | qweather-314 | qweather-315 | qweather-316 | qweather-317 | qweather-318 | qweather-350 | qweather-351 | qweather-399 | qweather-4 | qweather-400 | qweather-401 | qweather-402 | qweather-403 | qweather-404 | qweather-405 | qweather-406 | qweather-407 | qweather-408 | qweather-409 | qweather-410 | qweather-456 | qweather-457 | qweather-499 | qweather-5 | qweather-500 | qweather-501 | qweather-502 | qweather-503 | qweather-504 | qweather-507 | qweather-508 | qweather-509 | qweather-510 | qweather-511 | qweather-512 | qweather-513 | qweather-514 | qweather-515 | qweather-6 | qweather-800 | qweather-801 | qweather-802 | qweather-803 | qweather-804 | qweather-805 | qweather-806 | qweather-807 | qweather-900 | qweather-901 | qweather-999 | warings-1001 | warings-1002 | warings-1003 | warings-1004 | warings-1005 | warings-1006 | warings-1007 | warings-1008 | warings-1009 | warings-1010 | warings-1011 | warings-1012 | warings-1013 | warings-1014 | warings-1015 | warings-1016 | warings-1017 | warings-1018 | warings-1019 | warings-1020 | warings-1021 | warings-1022 | warings-1023 | warings-1024 | warings-1025 | warings-1026 | warings-1027 | warings-1028 | warings-1029 | warings-1030 | warings-1031 | warings-1032 | warings-1033 | warings-1034 | warings-1035 | warings-1036 | warings-1037 | warings-1038 | warings-1039 | warings-1040 | warings-1041 | warings-1042 | warings-1043 | warings-1044 | warings-1045 | warings-1046 | warings-1047 | warings-1048 | warings-1049 | warings-1050 | warings-1051 | warings-1052 | warings-1053 | warings-1054 | warings-1055 | warings-1056 | warings-1057 | warings-1058 | warings-1059 | warings-1061 | warings-1064 | warings-1101 | warings-1302 | warings-1402 | warings-1601 | warings-1602 | warings-1603 | warings-1604 | warings-1605 | warings-1606 | warings-1607 | warings-2001 | warings-2002 | warings-2003 | warings-2004 | warings-2005 | warings-2006 | warings-2007 | warings-2008 | warings-2009 | warings-2010 | warings-2011 | warings-2012 | warings-2013 | warings-2014 | warings-2015 | warings-2016 | warings-2017 | warings-2018 | warings-2019 | warings-2020 | warings-2021 | warings-2022 | warings-2023 | warings-2024 | warings-2025 | warings-2026 | warings-2027 | warings-2028 | warings-2052 | warings-9999 | warings-不知
+    name: {
+      type: String,
+    },
+    size: {
+      type: Number,
+      value: 18,
+    },
+  },
+  data: {
+    quote: '"',
+  }
+});

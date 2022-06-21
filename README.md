@@ -6,7 +6,7 @@
 
 - [x] vue
 - [x] react
-- [ ] weapp
+- [x] weapp
 - [ ] other
 
 ## Dev

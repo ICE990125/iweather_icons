@@ -1,0 +1,26 @@
+{
+  "name": "iweather_weapp",
+  "version": "0.0.1",
+  "description": "小程序天气图标",
+  "main": "index.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iceweather/iweather_icons.git"
+  },
+  "keywords": [
+    "weapp",
+    "qweather"
+  ],
+  "author": "ARCTURUS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iceweather/iweather_icons/issues"
+  },
+  "homepage": "https://github.com/iceweather/iweather_icons#readme"
+}

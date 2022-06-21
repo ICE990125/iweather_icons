@@ -25,10 +25,30 @@ pnpm run build
 pnpm i iweather_icon_weapp
 ```
 
+修改 project.config.json
+
+```json
+{
+  "setting": {
+    "packNpmManually": true,
+    "packNpmRelationList": [
+      {
+        "packageJsonPath": "./package.json",
+        "miniprogramNpmDistDir": "./"
+      }
+    ]
+  }
+}
+```
+
+点击 `工具` - `构建 npm`
+
+引入
+
 ```json
 {
     "usingComponents": {
-        "weather-icon": "../../components/weather-icon/index"
+        "weather-icon": "iweather_icon_weapp/weather-icon/index"
     }
 }
 ```

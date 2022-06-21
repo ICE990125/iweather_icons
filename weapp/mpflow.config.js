@@ -6,8 +6,10 @@ module.exports = {
     mode === 'production'
       ? ['src/components/index']
       : undefined,
-  outputDir: 'miniprogram_dist',
+  outputDir: 'dist',
   compileType: 'miniprogram',
+  sourceMap: false,
+  minimize: false,
   plugins: ['@mpflow/plugin-babel', '@mpflow/plugin-css'],
   settings: {
     urlCheck: true,

@@ -1,0 +1,5 @@
+{
+    "usingComponents": {
+        "weather-icon": "../../components/weather-icon/index"
+    }
+}

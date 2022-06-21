@@ -1,0 +1,3 @@
+<view class="container">
+    <weather-icon size="60" name="qweather-1"></weather-icon>
+</view>

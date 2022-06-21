@@ -1,0 +1,5 @@
+{
+  "dir": "../assets",
+  "save_dir": "./src/components/weather-icon",
+  "default_size": 18
+}

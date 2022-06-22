@@ -11,7 +11,8 @@
     "@babel/runtime": "^7.11.2",
     "@mpflow/plugin-babel": "^0.0.37",
     "@mpflow/plugin-css": "^0.0.33",
-    "@mpflow/service": "^0.0.33"
+    "@mpflow/service": "^0.0.33",
+    "ice-weapp-svg-cli": "^0.0.1"
   },
   "miniprogram": "dist",
   "repository": {
